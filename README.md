@@ -1,2 +1,2 @@
-# open-find
-Search almost everything across the web
+# &#128269; Open Search
+Search almost everything across the web.
